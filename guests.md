@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Leo Luo           | 2             |
+| Angelina Jo       | 3             |
